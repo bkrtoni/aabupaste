@@ -1,5 +1,5 @@
-# aabupaste
-aabu paste is a website help coders to save their codes on the internet.
+# AABU Paste
+aabu paste is a website help coders to save their codes on the internet and transform them.
 
 
 [index.php](index.php) show the index page of the site and here you can add your codes.<br>
@@ -7,4 +7,6 @@ aabu paste is a website help coders to save their codes on the internet.
 
 In this project i used [CodeMirror](http://codemirror.com) highlighter and editor.
 
-licinse 
+Project on the internet [click here](aapupaste.eb2a.com)
+
+[license](LICENSE)
