@@ -7,6 +7,6 @@ aabu paste is a website help coders to save their codes on the internet and tran
 
 In this project i used [CodeMirror](http://codemirror.com) highlighter and editor.
 
-Project on the internet [click here](https://aapupaste.eb2a.com)
+Project on the internet [click here](https://aabupaste.eb2a.com)
 
 [license](LICENSE)
